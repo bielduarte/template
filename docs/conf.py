@@ -43,7 +43,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Read the Docs Template'
+project = u'teste'
 copyright = u'2014, Read the Docs'
 
 # The version info for the project you're documenting, acts as replacement for
@@ -256,3 +256,4 @@ texinfo_documents = [
 
 # If true, do not generate a @detailmenu in the "Top" node's menu.
 #texinfo_no_detailmenu = False
+extensions = ['recommonmark']
